@@ -12,3 +12,5 @@ const useCurrencyInfo = (currency) => {
 };
 
 export default useCurrencyInfo;
+
+
